@@ -1,0 +1,814 @@
+2021-01-12 15:07:12,500 - mylogger - INFO - 进程ID: 18296 - 站点：mn_name,报警类型：Offline
+2021-01-12 17:00:16,068 - mylogger - INFO - 进程ID: 33548 - 站点：开发区东兴印染-elh,报警类型：Offline
+2021-01-12 17:00:17,098 - mylogger - INFO - 进程ID: 33548 - 站点：津龙工业园,报警类型：Offline
+2021-01-12 17:00:17,940 - mylogger - INFO - 进程ID: 33548 - 站点：沙市区烟草（维修）,报警类型：Offline
+2021-01-12 18:30:16,029 - mylogger - INFO - 进程ID: 33548 - 站点：建华管桩,报警类型：ConstantValue_MM
+2021-01-12 18:30:17,877 - mylogger - INFO - 进程ID: 33548 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-12 18:30:19,036 - mylogger - INFO - 进程ID: 33548 - 站点：荆州明珠城,报警类型：ConstantValue_MM
+2021-01-12 18:30:19,677 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-12 18:30:20,384 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-12 18:30:21,258 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-12 18:30:22,045 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-12 18:30:22,217 - mylogger - INFO - 进程ID: 33548 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-12 18:30:22,593 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-12 18:30:23,830 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-12 18:30:24,261 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-12 18:30:24,623 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-12 18:30:24,944 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-12 18:30:25,302 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-12 18:30:25,577 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-12 18:30:26,015 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-12 18:30:26,395 - mylogger - INFO - 进程ID: 33548 - 站点：东方大道美的路,报警类型：ConstantValue_MM
+2021-01-12 18:30:26,743 - mylogger - INFO - 进程ID: 33548 - 站点：钢管厂修理车间,报警类型：ConstantValue_MM
+2021-01-12 20:30:16,267 - mylogger - INFO - 进程ID: 33548 - 站点：烽火钢构东,报警类型：ConstantValue_MM
+2021-01-12 20:30:16,835 - mylogger - INFO - 进程ID: 33548 - 站点：建华管桩,报警类型：ConstantValue_MM
+2021-01-12 20:30:17,557 - mylogger - INFO - 进程ID: 33548 - 站点：沙市天益家具zt1,报警类型：ConstantValue_MM
+2021-01-12 20:30:18,030 - mylogger - INFO - 进程ID: 33548 - 站点：荆州区新师院-elh,报警类型：ConstantValue_MM
+2021-01-12 20:30:19,014 - mylogger - INFO - 进程ID: 33548 - 站点：中医高专新校区6号宿舍楼,报警类型：ConstantValue_MM
+2021-01-12 20:30:19,706 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-12 20:30:20,385 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-12 20:30:21,540 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-12 20:30:22,395 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-12 20:30:22,852 - mylogger - INFO - 进程ID: 33548 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-12 20:30:22,883 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-12 20:30:23,290 - mylogger - INFO - 进程ID: 33548 - 站点：亿钧玻璃2搬迁,报警类型：ConstantValue_MM
+2021-01-12 20:30:23,519 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-12 20:30:23,858 - mylogger - INFO - 进程ID: 33548 - 站点：开发区田曲化工中心,报警类型：ConstantValue_MM
+2021-01-12 20:30:24,014 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-12 20:30:24,672 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-12 20:30:25,035 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-12 20:30:25,481 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-12 20:30:26,258 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-12 20:30:26,932 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-12 20:30:27,561 - mylogger - INFO - 进程ID: 33548 - 站点：钢管厂修理车间,报警类型：ConstantValue_MM
+2021-01-12 22:30:16,675 - mylogger - INFO - 进程ID: 33548 - 站点：沙市印染工业园,报警类型：ConstantValue_MM
+2021-01-12 22:30:17,240 - mylogger - INFO - 进程ID: 33548 - 站点：烽火钢构东,报警类型：ConstantValue_MM
+2021-01-12 22:30:17,990 - mylogger - INFO - 进程ID: 33548 - 站点：建华管桩,报警类型：ConstantValue_MM
+2021-01-12 22:30:18,783 - mylogger - INFO - 进程ID: 33548 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-12 22:30:18,813 - mylogger - INFO - 进程ID: 33548 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-12 22:30:19,372 - mylogger - INFO - 进程ID: 33548 - 站点：沙市天益家具zt1,报警类型：ConstantValue_MM
+2021-01-12 22:30:19,684 - mylogger - INFO - 进程ID: 33548 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-12 22:30:20,632 - mylogger - INFO - 进程ID: 33548 - 站点：正博革业,报警类型：ConstantValue_MM
+2021-01-12 22:30:21,689 - mylogger - INFO - 进程ID: 33548 - 站点：荆州区新师院-elh,报警类型：ConstantValue_MM
+2021-01-12 22:30:22,641 - mylogger - INFO - 进程ID: 33548 - 站点：荆州明珠城,报警类型：ConstantValue_MM
+2021-01-12 22:30:22,663 - mylogger - INFO - 进程ID: 33548 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-12 22:30:23,024 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-12 22:30:23,297 - mylogger - INFO - 进程ID: 33548 - 站点：亿钧玻璃2搬迁,报警类型：ConstantValue_MM
+2021-01-12 22:30:23,560 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-12 22:30:23,992 - mylogger - INFO - 进程ID: 33548 - 站点：开发区田曲化工中心,报警类型：ConstantValue_MM
+2021-01-12 22:30:24,217 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-12 22:30:24,768 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-12 22:30:25,159 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-12 22:30:25,531 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-12 22:30:25,878 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-12 22:30:26,154 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-12 22:30:26,589 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-12 22:30:26,944 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-12 22:30:27,277 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-12 22:30:27,641 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-12 22:30:27,999 - mylogger - INFO - 进程ID: 33548 - 站点：东方大道美的路,报警类型：ConstantValue_MM
+2021-01-12 22:30:28,392 - mylogger - INFO - 进程ID: 33548 - 站点：钢管厂修理车间,报警类型：ConstantValue_MM
+2021-01-13 00:30:17,197 - mylogger - INFO - 进程ID: 33548 - 站点：月堤北路2-elh,报警类型：ConstantValue_MM
+2021-01-13 00:30:17,722 - mylogger - INFO - 进程ID: 33548 - 站点：沙市印染工业园,报警类型：ConstantValue_MM
+2021-01-13 00:30:18,602 - mylogger - INFO - 进程ID: 33548 - 站点：开发区沙隆达厂区内,报警类型：ConstantValue_MM
+2021-01-13 00:30:19,159 - mylogger - INFO - 进程ID: 33548 - 站点：荆州区新师院-elh,报警类型：ConstantValue_MM
+2021-01-13 00:30:19,229 - mylogger - INFO - 进程ID: 33548 - 站点：荆州种子公司,报警类型：ConstantValue_MM
+2021-01-13 00:30:19,768 - mylogger - INFO - 进程ID: 33548 - 站点：沙市区长港路和园林路交叉口1,报警类型：ConstantValue_MM
+2021-01-13 00:30:20,071 - mylogger - INFO - 进程ID: 33548 - 站点：烽火钢构东,报警类型：ConstantValue_MM
+2021-01-13 00:30:20,746 - mylogger - INFO - 进程ID: 33548 - 站点：中医高专新校区6号宿舍楼,报警类型：ConstantValue_MM
+2021-01-13 00:30:20,844 - mylogger - INFO - 进程ID: 33548 - 站点：建华管桩,报警类型：ConstantValue_MM
+2021-01-13 00:30:21,811 - mylogger - INFO - 进程ID: 33548 - 站点：荆州白龙村七组,报警类型：ConstantValue_MM
+2021-01-13 00:30:22,093 - mylogger - INFO - 进程ID: 33548 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-13 00:30:22,856 - mylogger - INFO - 进程ID: 33548 - 站点：荆州明珠城,报警类型：ConstantValue_MM
+2021-01-13 00:30:23,092 - mylogger - INFO - 进程ID: 33548 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-13 00:30:23,434 - mylogger - INFO - 进程ID: 33548 - 站点：豉湖路口,报警类型：ConstantValue_MM
+2021-01-13 00:30:23,704 - mylogger - INFO - 进程ID: 33548 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-13 00:30:24,940 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 00:30:25,237 - mylogger - INFO - 进程ID: 33548 - 站点：亿钧玻璃2搬迁,报警类型：ConstantValue_MM
+2021-01-13 00:30:25,503 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 00:30:25,929 - mylogger - INFO - 进程ID: 33548 - 站点：开发区田曲化工中心,报警类型：ConstantValue_MM
+2021-01-13 00:30:26,210 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 00:30:26,828 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 00:30:27,170 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 00:30:27,641 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 00:30:27,986 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 00:30:28,331 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 00:30:28,627 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 00:30:28,927 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 00:30:29,497 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 00:30:29,920 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 02:30:17,331 - mylogger - INFO - 进程ID: 33548 - 站点：沙市印染工业园,报警类型：ConstantValue_MM
+2021-01-13 02:30:19,077 - mylogger - INFO - 进程ID: 33548 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-13 02:30:23,242 - mylogger - INFO - 进程ID: 33548 - 站点：开发区天谊印染,报警类型：ConstantValue_MM
+2021-01-13 02:30:23,877 - mylogger - INFO - 进程ID: 33548 - 站点：荆州种子公司,报警类型：ConstantValue_MM
+2021-01-13 02:30:24,332 - mylogger - INFO - 进程ID: 33548 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-13 02:30:24,464 - mylogger - INFO - 进程ID: 33548 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-13 02:30:24,820 - mylogger - INFO - 进程ID: 33548 - 站点：沙市化工研究所2-ELH,报警类型：ConstantValue_MM
+2021-01-13 02:30:25,073 - mylogger - INFO - 进程ID: 33548 - 站点：烽火钢构东,报警类型：ConstantValue_MM
+2021-01-13 02:30:25,570 - mylogger - INFO - 进程ID: 33548 - 站点：亿钧玻璃2搬迁,报警类型：ConstantValue_MM
+2021-01-13 02:30:25,608 - mylogger - INFO - 进程ID: 33548 - 站点：荆州地税,报警类型：ConstantValue_MM
+2021-01-13 02:30:25,946 - mylogger - INFO - 进程ID: 33548 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-13 02:30:26,269 - mylogger - INFO - 进程ID: 33548 - 站点：云天酒店,报警类型：ConstantValue_MM
+2021-01-13 02:30:26,513 - mylogger - INFO - 进程ID: 33548 - 站点：开发区田曲化工中心,报警类型：ConstantValue_MM
+2021-01-13 02:30:27,362 - mylogger - INFO - 进程ID: 33548 - 站点：中医高专新校区6号宿舍楼,报警类型：ConstantValue_MM
+2021-01-13 02:30:28,055 - mylogger - INFO - 进程ID: 33548 - 站点：荆州区荆保宾馆,报警类型：ConstantValue_MM
+2021-01-13 02:30:28,531 - mylogger - INFO - 进程ID: 33548 - 站点：荆州明珠城,报警类型：ConstantValue_MM
+2021-01-13 02:30:29,001 - mylogger - INFO - 进程ID: 33548 - 站点：荆州工商联,报警类型：ConstantValue_MM
+2021-01-13 02:30:29,341 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 02:30:29,686 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 02:30:30,163 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 02:30:30,564 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 02:30:30,976 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 02:30:31,335 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 02:30:31,666 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 02:30:31,943 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 02:30:32,456 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 02:30:32,849 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 02:30:38,937 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 02:30:39,614 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 02:30:40,075 - mylogger - INFO - 进程ID: 33548 - 站点：兴泰纺织,报警类型：ConstantValue_MM
+2021-01-13 04:30:17,551 - mylogger - INFO - 进程ID: 33548 - 站点：沙市印染工业园,报警类型：ConstantValue_MM
+2021-01-13 04:30:18,081 - mylogger - INFO - 进程ID: 33548 - 站点：开发区沙隆达厂区内,报警类型：ConstantValue_MM
+2021-01-13 04:30:18,927 - mylogger - INFO - 进程ID: 33548 - 站点：荆州种子公司,报警类型：ConstantValue_MM
+2021-01-13 04:30:19,684 - mylogger - INFO - 进程ID: 33548 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-13 04:30:19,701 - mylogger - INFO - 进程ID: 33548 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-13 04:30:20,224 - mylogger - INFO - 进程ID: 33548 - 站点：沙市化工研究所2-ELH,报警类型：ConstantValue_MM
+2021-01-13 04:30:21,340 - mylogger - INFO - 进程ID: 33548 - 站点：荆州地税,报警类型：ConstantValue_MM
+2021-01-13 04:30:22,280 - mylogger - INFO - 进程ID: 33548 - 站点：荆州区新师院-elh,报警类型：ConstantValue_MM
+2021-01-13 04:30:23,060 - mylogger - INFO - 进程ID: 33548 - 站点：荆州区荆保宾馆,报警类型：ConstantValue_MM
+2021-01-13 04:30:23,821 - mylogger - INFO - 进程ID: 33548 - 站点：荆州明珠城,报警类型：ConstantValue_MM
+2021-01-13 04:30:24,068 - mylogger - INFO - 进程ID: 33548 - 站点：开发区天谊印染,报警类型：ConstantValue_MM
+2021-01-13 04:30:24,323 - mylogger - INFO - 进程ID: 33548 - 站点：荆州工商联,报警类型：ConstantValue_MM
+2021-01-13 04:30:24,660 - mylogger - INFO - 进程ID: 33548 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-13 04:30:24,888 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 04:30:25,166 - mylogger - INFO - 进程ID: 33548 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-13 04:30:25,624 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 04:30:26,014 - mylogger - INFO - 进程ID: 33548 - 站点：亿钧玻璃2搬迁,报警类型：ConstantValue_MM
+2021-01-13 04:30:26,452 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 04:30:26,732 - mylogger - INFO - 进程ID: 33548 - 站点：开发区田曲化工中心,报警类型：ConstantValue_MM
+2021-01-13 04:30:26,941 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 04:30:27,605 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 04:30:27,915 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 04:30:28,262 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 04:30:28,664 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 04:30:28,994 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 04:30:29,373 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 04:30:29,797 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 04:30:30,196 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 04:30:30,629 - mylogger - INFO - 进程ID: 33548 - 站点：兴泰纺织,报警类型：ConstantValue_MM
+2021-01-13 06:30:20,524 - mylogger - INFO - 进程ID: 33548 - 站点：荆州区荆保宾馆,报警类型：ConstantValue_MM
+2021-01-13 06:30:21,078 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 06:30:21,780 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 06:30:22,640 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 06:30:23,316 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 06:30:23,527 - mylogger - INFO - 进程ID: 33548 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-13 06:30:23,683 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 06:30:24,381 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 06:30:24,740 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 06:30:25,053 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 06:30:25,483 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 06:30:25,893 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 06:30:26,276 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 06:30:26,553 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 08:30:20,111 - mylogger - INFO - 进程ID: 33548 - 站点：沙市化工研究所2-ELH,报警类型：ConstantValue_MM
+2021-01-13 08:30:20,862 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 08:30:21,250 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 08:30:21,964 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 08:30:23,221 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 08:30:23,937 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 08:30:24,338 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 08:30:24,342 - mylogger - INFO - 进程ID: 33548 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-13 08:30:24,580 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 08:30:24,874 - mylogger - INFO - 进程ID: 33548 - 站点：亿钧玻璃2搬迁,报警类型：ConstantValue_MM
+2021-01-13 08:30:25,016 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 08:30:25,316 - mylogger - INFO - 进程ID: 33548 - 站点：开发区田曲化工中心,报警类型：ConstantValue_MM
+2021-01-13 08:30:25,690 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 08:30:26,099 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 08:30:26,330 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 08:30:26,592 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 10:30:21,293 - mylogger - INFO - 进程ID: 33548 - 站点：沙市化工研究所2-ELH,报警类型：ConstantValue_MM
+2021-01-13 10:30:21,898 - mylogger - INFO - 进程ID: 33548 - 站点：中医高专新校区6号宿舍楼,报警类型：ConstantValue_MM
+2021-01-13 10:30:22,626 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 10:30:23,506 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 10:30:24,180 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 10:30:24,588 - mylogger - INFO - 进程ID: 33548 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-13 10:30:24,596 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 10:30:24,936 - mylogger - INFO - 进程ID: 33548 - 站点：开发区田曲化工中心,报警类型：ConstantValue_MM
+2021-01-13 10:30:25,046 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 10:30:25,489 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 10:30:25,746 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 10:30:25,963 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 10:30:26,193 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 10:30:26,584 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 10:30:26,764 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 10:30:27,001 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 12:30:19,684 - mylogger - INFO - 进程ID: 33548 - 站点：开发区沙隆达厂区内,报警类型：ConstantValue_MM
+2021-01-13 12:30:21,783 - mylogger - INFO - 进程ID: 33548 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-13 12:30:22,261 - mylogger - INFO - 进程ID: 33548 - 站点：沙市化工研究所2-ELH,报警类型：ConstantValue_MM
+2021-01-13 12:30:23,462 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 12:30:24,359 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 12:30:25,081 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 12:30:25,339 - mylogger - INFO - 进程ID: 33548 - 站点：沙市区烟草,报警类型：ConstantValue_MM
+2021-01-13 12:30:25,428 - mylogger - INFO - 进程ID: 33548 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 12:30:25,786 - mylogger - INFO - 进程ID: 33548 - 站点：开发区田曲化工中心,报警类型：ConstantValue_MM
+2021-01-13 12:30:25,814 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 12:30:26,434 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 12:30:26,658 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 12:30:26,902 - mylogger - INFO - 进程ID: 33548 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 12:30:27,174 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 12:30:27,411 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 12:30:27,659 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 12:30:27,890 - mylogger - INFO - 进程ID: 33548 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 15:38:27,285 - mylogger - INFO - 进程ID: 35636 - 站点：建华管桩,报警类型：ConstantValue_MM
+2021-01-13 15:38:29,891 - mylogger - INFO - 进程ID: 35636 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-13 15:38:30,628 - mylogger - INFO - 进程ID: 35636 - 站点：沙市化工研究所2-ELH,报警类型：ConstantValue_MM
+2021-01-13 15:38:31,188 - mylogger - INFO - 进程ID: 35636 - 站点：荆州区新师院-elh,报警类型：ConstantValue_MM
+2021-01-13 15:38:32,051 - mylogger - INFO - 进程ID: 35636 - 站点：云天酒店,报警类型：ConstantValue_MM
+2021-01-13 15:38:33,012 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 15:38:34,493 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 15:38:35,848 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 15:38:37,200 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 15:38:37,883 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 15:38:38,206 - mylogger - INFO - 进程ID: 35636 - 站点：沙市区烟草,报警类型：ConstantValue_MM
+2021-01-13 15:38:38,219 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 15:38:38,655 - mylogger - INFO - 进程ID: 35636 - 站点：亿钧玻璃2搬迁,报警类型：ConstantValue_MM
+2021-01-13 15:38:38,676 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 15:38:38,997 - mylogger - INFO - 进程ID: 35636 - 站点：开发区田曲化工中心,报警类型：ConstantValue_MM
+2021-01-13 15:38:39,195 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 15:38:39,869 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 15:38:40,168 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 15:38:40,504 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 15:38:40,826 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 15:38:41,180 - mylogger - INFO - 进程ID: 35636 - 站点：钢管厂修理车间,报警类型：ConstantValue_MM
+2021-01-13 17:38:27,934 - mylogger - INFO - 进程ID: 35636 - 站点：建华管桩,报警类型：ConstantValue_MM
+2021-01-13 17:38:30,138 - mylogger - INFO - 进程ID: 35636 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-13 17:38:30,606 - mylogger - INFO - 进程ID: 35636 - 站点：沙市化工研究所2-ELH,报警类型：ConstantValue_MM
+2021-01-13 17:38:31,232 - mylogger - INFO - 进程ID: 35636 - 站点：荆州区新师院-elh,报警类型：ConstantValue_MM
+2021-01-13 17:38:32,080 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 17:38:38,285 - mylogger - INFO - 进程ID: 35636 - 站点：亿钧玻璃2搬迁,报警类型：ConstantValue_MM
+2021-01-13 17:38:38,588 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 17:38:39,396 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 17:38:39,796 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 17:38:40,155 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 17:38:40,362 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 17:38:40,851 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 17:38:41,103 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 17:38:41,385 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 17:38:41,588 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 17:38:41,803 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 17:38:42,002 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 19:38:27,818 - mylogger - INFO - 进程ID: 35636 - 站点：沙市印染工业园,报警类型：ConstantValue_MM
+2021-01-13 19:38:28,591 - mylogger - INFO - 进程ID: 35636 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-13 19:38:29,472 - mylogger - INFO - 进程ID: 35636 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-13 19:38:30,519 - mylogger - INFO - 进程ID: 35636 - 站点：沙市化工研究所2-ELH,报警类型：ConstantValue_MM
+2021-01-13 19:38:31,557 - mylogger - INFO - 进程ID: 35636 - 站点：豉湖路口,报警类型：ConstantValue_MM
+2021-01-13 19:38:32,228 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 19:38:33,974 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 19:38:34,729 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 19:38:35,219 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 19:38:36,067 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 19:38:36,448 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 19:38:36,783 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 19:38:37,021 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 19:38:37,240 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 19:38:43,585 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 19:38:44,068 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 19:38:44,536 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 21:38:28,434 - mylogger - INFO - 进程ID: 35636 - 站点：沙市印染工业园,报警类型：ConstantValue_MM
+2021-01-13 21:38:28,905 - mylogger - INFO - 进程ID: 35636 - 站点：荆州种子公司,报警类型：ConstantValue_MM
+2021-01-13 21:38:29,526 - mylogger - INFO - 进程ID: 35636 - 站点：烽火钢构东,报警类型：ConstantValue_MM
+2021-01-13 21:38:30,468 - mylogger - INFO - 进程ID: 35636 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-13 21:38:30,508 - mylogger - INFO - 进程ID: 35636 - 站点：沙市化工研究所2-ELH,报警类型：ConstantValue_MM
+2021-01-13 21:38:30,876 - mylogger - INFO - 进程ID: 35636 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-13 21:38:31,421 - mylogger - INFO - 进程ID: 35636 - 站点：南环路新师范西,报警类型：ConstantValue_MM
+2021-01-13 21:38:32,370 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 21:38:33,466 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 21:38:34,099 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 21:38:34,681 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 21:38:34,728 - mylogger - INFO - 进程ID: 35636 - 站点：开发区天谊印染,报警类型：ConstantValue_MM
+2021-01-13 21:38:34,950 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 21:38:35,266 - mylogger - INFO - 进程ID: 35636 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-13 21:38:35,369 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 21:38:35,696 - mylogger - INFO - 进程ID: 35636 - 站点：亿钧玻璃2搬迁,报警类型：ConstantValue_MM
+2021-01-13 21:38:35,911 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 21:38:36,486 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 21:38:36,964 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 21:38:37,194 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 21:38:37,389 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 21:38:37,632 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 21:38:38,035 - mylogger - INFO - 进程ID: 35636 - 站点：兴泰纺织,报警类型：ConstantValue_MM
+2021-01-13 23:38:30,065 - mylogger - INFO - 进程ID: 35636 - 站点：沙市印染工业园,报警类型：ConstantValue_MM
+2021-01-13 23:38:34,261 - mylogger - INFO - 进程ID: 35636 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-13 23:38:42,532 - mylogger - INFO - 进程ID: 35636 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-13 23:38:42,876 - mylogger - INFO - 进程ID: 35636 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-13 23:38:43,297 - mylogger - INFO - 进程ID: 35636 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-13 23:38:44,127 - mylogger - INFO - 进程ID: 35636 - 站点：沙市化工研究所2-ELH,报警类型：ConstantValue_MM
+2021-01-13 23:38:44,798 - mylogger - INFO - 进程ID: 35636 - 站点：开发区天谊印染,报警类型：ConstantValue_MM
+2021-01-13 23:38:46,315 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 23:38:46,420 - mylogger - INFO - 进程ID: 35636 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-13 23:38:46,619 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 23:38:47,019 - mylogger - INFO - 进程ID: 35636 - 站点：亿钧玻璃2搬迁,报警类型：ConstantValue_MM
+2021-01-13 23:38:47,030 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 23:38:48,231 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-13 23:38:48,478 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 23:38:48,705 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 23:38:49,156 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 23:38:49,427 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-13 23:38:49,662 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 23:38:49,911 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 23:38:50,135 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 23:38:50,373 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-13 23:38:50,733 - mylogger - INFO - 进程ID: 35636 - 站点：兴泰纺织,报警类型：ConstantValue_MM
+2021-01-14 01:38:30,002 - mylogger - INFO - 进程ID: 35636 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-14 01:38:36,211 - mylogger - INFO - 进程ID: 35636 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-14 01:38:37,782 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 01:38:37,796 - mylogger - INFO - 进程ID: 35636 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-14 01:38:38,201 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 01:38:38,554 - mylogger - INFO - 进程ID: 35636 - 站点：亿钧玻璃2搬迁,报警类型：ConstantValue_MM
+2021-01-14 01:38:38,868 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 01:38:39,289 - mylogger - INFO - 进程ID: 35636 - 站点：开发区田曲化工中心,报警类型：ConstantValue_MM
+2021-01-14 01:38:39,713 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 01:38:40,287 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 01:38:40,747 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 01:38:41,123 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 01:38:41,481 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 01:38:41,864 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 01:38:42,246 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 01:38:42,589 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 01:38:42,882 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 01:38:43,327 - mylogger - INFO - 进程ID: 35636 - 站点：兴泰纺织,报警类型：ConstantValue_MM
+2021-01-14 03:38:29,976 - mylogger - INFO - 进程ID: 35636 - 站点：建华管桩,报警类型：ConstantValue_MM
+2021-01-14 03:38:30,552 - mylogger - INFO - 进程ID: 35636 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-14 03:38:32,011 - mylogger - INFO - 进程ID: 35636 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-14 03:38:32,159 - mylogger - INFO - 进程ID: 35636 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-14 03:38:32,528 - mylogger - INFO - 进程ID: 35636 - 站点：沙市天益家具zt1,报警类型：ConstantValue_MM
+2021-01-14 03:38:32,927 - mylogger - INFO - 进程ID: 35636 - 站点：沙市化工研究所2-ELH,报警类型：ConstantValue_MM
+2021-01-14 03:38:34,321 - mylogger - INFO - 进程ID: 35636 - 站点：荆州明珠城,报警类型：ConstantValue_MM
+2021-01-14 03:38:35,811 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 03:38:36,674 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 03:38:37,044 - mylogger - INFO - 进程ID: 35636 - 站点：开发区天谊印染,报警类型：ConstantValue_MM
+2021-01-14 03:38:37,156 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 03:38:37,413 - mylogger - INFO - 进程ID: 35636 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-14 03:38:37,744 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 03:38:38,269 - mylogger - INFO - 进程ID: 35636 - 站点：开发区田曲化工中心,报警类型：ConstantValue_MM
+2021-01-14 03:38:38,434 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 03:38:39,008 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 03:38:39,339 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 03:38:39,731 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 03:38:40,302 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 03:38:40,809 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 03:38:41,210 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 03:38:41,543 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 03:38:41,961 - mylogger - INFO - 进程ID: 35636 - 站点：兴泰纺织,报警类型：ConstantValue_MM
+2021-01-14 05:38:30,609 - mylogger - INFO - 进程ID: 35636 - 站点：沙市印染工业园,报警类型：ConstantValue_MM
+2021-01-14 05:38:31,271 - mylogger - INFO - 进程ID: 35636 - 站点：烽火钢构东,报警类型：ConstantValue_MM
+2021-01-14 05:38:31,939 - mylogger - INFO - 进程ID: 35636 - 站点：建华管桩,报警类型：ConstantValue_MM
+2021-01-14 05:38:32,920 - mylogger - INFO - 进程ID: 35636 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-14 05:38:33,004 - mylogger - INFO - 进程ID: 35636 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-14 05:38:33,378 - mylogger - INFO - 进程ID: 35636 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-14 05:38:33,809 - mylogger - INFO - 进程ID: 35636 - 站点：沙市化工研究所2-ELH,报警类型：ConstantValue_MM
+2021-01-14 05:38:34,294 - mylogger - INFO - 进程ID: 35636 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-14 05:38:34,529 - mylogger - INFO - 进程ID: 35636 - 站点：沙市化工研究所2-ELH,报警类型：ConstantValue_MM
+2021-01-14 05:38:35,172 - mylogger - INFO - 进程ID: 35636 - 站点：沙市天益家具zt1,报警类型：ConstantValue_MM
+2021-01-14 05:38:35,398 - mylogger - INFO - 进程ID: 35636 - 站点：荆州区新师院-elh,报警类型：ConstantValue_MM
+2021-01-14 05:38:36,917 - mylogger - INFO - 进程ID: 35636 - 站点：荆州区荆保宾馆,报警类型：ConstantValue_MM
+2021-01-14 05:38:37,643 - mylogger - INFO - 进程ID: 35636 - 站点：荆州明珠城,报警类型：ConstantValue_MM
+2021-01-14 05:38:38,008 - mylogger - INFO - 进程ID: 35636 - 站点：开发区天谊印染,报警类型：ConstantValue_MM
+2021-01-14 05:38:38,143 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 05:38:38,426 - mylogger - INFO - 进程ID: 35636 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-14 05:38:38,711 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 05:38:39,288 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 05:38:39,656 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 05:38:40,116 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 05:38:40,542 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 05:38:40,893 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 05:38:41,255 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 05:38:41,605 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 05:38:42,115 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 05:38:42,481 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 05:38:42,825 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 05:38:43,380 - mylogger - INFO - 进程ID: 35636 - 站点：兴泰纺织,报警类型：ConstantValue_MM
+2021-01-14 07:38:30,354 - mylogger - INFO - 进程ID: 35636 - 站点：沙市印染工业园,报警类型：ConstantValue_MM
+2021-01-14 07:38:31,015 - mylogger - INFO - 进程ID: 35636 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-14 07:38:31,863 - mylogger - INFO - 进程ID: 35636 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-14 07:38:34,289 - mylogger - INFO - 进程ID: 35636 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-14 07:38:35,191 - mylogger - INFO - 进程ID: 35636 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-14 07:38:38,031 - mylogger - INFO - 进程ID: 35636 - 站点：沙市化工研究所2-ELH,报警类型：ConstantValue_MM
+2021-01-14 07:38:39,306 - mylogger - INFO - 进程ID: 35636 - 站点：沙市区长港路和园林路交叉口1,报警类型：ConstantValue_MM
+2021-01-14 07:38:39,953 - mylogger - INFO - 进程ID: 35636 - 站点：沙市区烟草,报警类型：ConstantValue_MM
+2021-01-14 07:38:39,972 - mylogger - INFO - 进程ID: 35636 - 站点：荆州区荆保宾馆,报警类型：ConstantValue_MM
+2021-01-14 07:38:40,310 - mylogger - INFO - 进程ID: 35636 - 站点：开发区天谊印染,报警类型：ConstantValue_MM
+2021-01-14 07:38:40,672 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 07:38:41,353 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 07:38:41,724 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 07:38:42,197 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 07:38:42,551 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 07:38:42,872 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 07:38:43,227 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 07:38:43,607 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 07:38:43,937 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 07:38:44,306 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 07:38:44,643 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 07:38:44,967 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 07:38:45,449 - mylogger - INFO - 进程ID: 35636 - 站点：兴泰纺织,报警类型：ConstantValue_MM
+2021-01-14 09:38:31,555 - mylogger - INFO - 进程ID: 35636 - 站点：开发区沙隆达厂区内,报警类型：ConstantValue_MM
+2021-01-14 09:38:32,829 - mylogger - INFO - 进程ID: 35636 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-14 09:38:40,111 - mylogger - INFO - 进程ID: 35636 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-14 09:38:42,221 - mylogger - INFO - 进程ID: 35636 - 站点：荆州区荆保宾馆,报警类型：ConstantValue_MM
+2021-01-14 09:38:42,456 - mylogger - INFO - 进程ID: 35636 - 站点：开发区天谊印染,报警类型：ConstantValue_MM
+2021-01-14 09:38:42,734 - mylogger - INFO - 进程ID: 35636 - 站点：荆州明珠城,报警类型：ConstantValue_MM
+2021-01-14 09:38:43,720 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 09:38:44,195 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 09:38:44,590 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 09:38:45,116 - mylogger - INFO - 进程ID: 35636 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 09:38:45,389 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 09:38:45,716 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 09:38:46,026 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 09:38:46,464 - mylogger - INFO - 进程ID: 35636 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 09:38:47,084 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 09:38:47,654 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 09:38:48,093 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 09:38:49,577 - mylogger - INFO - 进程ID: 35636 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 09:38:50,146 - mylogger - INFO - 进程ID: 35636 - 站点：兴泰纺织,报警类型：ConstantValue_MM
+2021-01-14 12:20:15,486 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：Offline
+2021-01-14 13:50:14,924 - mylogger - INFO - 进程ID: 15676 - 站点：烽火钢构东,报警类型：ConstantValue_MM
+2021-01-14 13:50:17,043 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 13:50:18,145 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：Offline
+2021-01-14 13:50:20,959 - mylogger - INFO - 进程ID: 15676 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-14 13:50:22,129 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 13:50:22,540 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 13:50:22,788 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 13:50:24,033 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 13:50:24,337 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 13:50:24,570 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 13:50:24,798 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 13:50:24,973 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 13:50:25,320 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 13:50:25,555 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 13:50:25,772 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 13:50:25,998 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 13:50:26,375 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 13:50:26,603 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 13:50:26,829 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 15:50:15,355 - mylogger - INFO - 进程ID: 15676 - 站点：开发区沙隆达厂区内,报警类型：ConstantValue_MM
+2021-01-14 15:50:15,861 - mylogger - INFO - 进程ID: 15676 - 站点：开发区沙隆达厂区内,报警类型：ConstantValue_MM
+2021-01-14 15:50:16,318 - mylogger - INFO - 进程ID: 15676 - 站点：烽火钢构东,报警类型：ConstantValue_MM
+2021-01-14 15:50:17,583 - mylogger - INFO - 进程ID: 15676 - 站点：云天酒店,报警类型：ConstantValue_MM
+2021-01-14 15:50:18,040 - mylogger - INFO - 进程ID: 15676 - 站点：荆州区荆保宾馆,报警类型：ConstantValue_MM
+2021-01-14 15:50:18,764 - mylogger - INFO - 进程ID: 15676 - 站点：荆州明珠城,报警类型：ConstantValue_MM
+2021-01-14 15:50:20,859 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 15:50:21,796 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 15:50:22,166 - mylogger - INFO - 进程ID: 15676 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-14 15:50:22,283 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 15:50:22,746 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 15:50:23,005 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 15:50:23,225 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 15:50:23,866 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 15:50:24,127 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 15:50:24,318 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 15:50:24,500 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 15:50:24,725 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 15:50:25,010 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 15:50:25,204 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 15:50:25,585 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 15:50:25,999 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 15:50:26,819 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 15:50:27,504 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 15:50:27,919 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 17:50:15,445 - mylogger - INFO - 进程ID: 15676 - 站点：开发区沙隆达厂区内,报警类型：ConstantValue_MM
+2021-01-14 17:50:15,947 - mylogger - INFO - 进程ID: 15676 - 站点：烽火钢构东,报警类型：ConstantValue_MM
+2021-01-14 17:50:16,527 - mylogger - INFO - 进程ID: 15676 - 站点：建华管桩,报警类型：ConstantValue_MM
+2021-01-14 17:50:17,598 - mylogger - INFO - 进程ID: 15676 - 站点：荆州明珠城,报警类型：ConstantValue_MM
+2021-01-14 17:50:19,306 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 17:50:20,304 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 17:50:21,041 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 17:50:21,055 - mylogger - INFO - 进程ID: 15676 - 站点：开发区天谊印染,报警类型：ConstantValue_MM
+2021-01-14 17:50:21,310 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 17:50:21,713 - mylogger - INFO - 进程ID: 15676 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-14 17:50:21,895 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 17:50:22,077 - mylogger - INFO - 进程ID: 15676 - 站点：开发区田曲化工中心,报警类型：ConstantValue_MM
+2021-01-14 17:50:22,167 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 17:50:22,556 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 17:50:22,778 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 17:50:23,159 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 17:50:23,380 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 17:50:23,608 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 17:50:23,801 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 17:50:23,962 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 17:50:24,365 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 17:50:24,805 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 17:50:25,033 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 17:50:25,235 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 17:50:25,447 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 17:50:25,609 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 17:50:26,028 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 18:00:00,427 - mylogger - INFO - 进程ID: 5328 - 站点：月堤北路2-elh,报警类型：Synthesize
+2021-01-14 19:43:59,522 - mylogger - INFO - 进程ID: 5328 - 站点：开发区沙隆达厂区内,报警类型：Synthesize
+2021-01-14 19:50:16,669 - mylogger - INFO - 进程ID: 15676 - 站点：开发区沙隆达厂区内,报警类型：ConstantValue_MM
+2021-01-14 19:50:17,105 - mylogger - INFO - 进程ID: 15676 - 站点：烽火钢构东,报警类型：ConstantValue_MM
+2021-01-14 19:50:18,300 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 19:50:18,660 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 19:50:19,062 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 19:50:19,667 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 19:50:20,520 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 19:50:21,210 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 19:50:21,592 - mylogger - INFO - 进程ID: 15676 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-14 19:50:21,652 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 19:50:22,284 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 19:50:22,487 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 19:50:22,680 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 19:50:22,873 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 19:50:23,072 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 19:50:24,431 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 19:50:24,703 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 19:50:24,896 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 19:50:25,157 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 19:50:25,338 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 19:50:25,584 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 19:50:25,793 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 19:50:25,948 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 19:50:26,163 - mylogger - INFO - 进程ID: 15676 - 站点：东方大道美的路,报警类型：ConstantValue_MM
+2021-01-14 21:50:17,196 - mylogger - INFO - 进程ID: 15676 - 站点：开发区沙隆达厂区内,报警类型：ConstantValue_MM
+2021-01-14 21:50:17,596 - mylogger - INFO - 进程ID: 15676 - 站点：烽火钢构东,报警类型：ConstantValue_MM
+2021-01-14 21:50:19,767 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 21:50:20,158 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 21:50:20,750 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 21:50:21,452 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 21:50:22,228 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 21:50:22,432 - mylogger - INFO - 进程ID: 15676 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-14 21:50:22,508 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 21:50:22,837 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 21:50:23,145 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 21:50:23,550 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 21:50:24,008 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 21:50:24,389 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 21:50:24,592 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 21:50:24,867 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 21:50:25,061 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 21:50:25,260 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 21:50:25,444 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 21:50:25,627 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 21:50:25,841 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 21:50:26,037 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 21:50:26,288 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 23:50:17,986 - mylogger - INFO - 进程ID: 15676 - 站点：开发区沙隆达厂区内,报警类型：ConstantValue_MM
+2021-01-14 23:50:19,841 - mylogger - INFO - 进程ID: 15676 - 站点：荆州明珠城,报警类型：ConstantValue_MM
+2021-01-14 23:50:20,263 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 23:50:20,658 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 23:50:21,250 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 23:50:21,988 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-14 23:50:22,567 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 23:50:22,908 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 23:50:23,062 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 23:50:23,224 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-14 23:50:23,605 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 23:50:23,772 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 23:50:24,014 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 23:50:24,236 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-14 23:50:24,486 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 23:50:24,671 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 23:50:24,971 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 23:50:25,364 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-14 23:50:25,811 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 23:50:26,097 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 23:50:26,295 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 23:50:26,549 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-14 23:50:26,747 - mylogger - INFO - 进程ID: 15676 - 站点：东方大道美的路,报警类型：ConstantValue_MM
+2021-01-15 01:50:18,064 - mylogger - INFO - 进程ID: 15676 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-15 01:50:20,109 - mylogger - INFO - 进程ID: 15676 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-15 01:50:24,523 - mylogger - INFO - 进程ID: 15676 - 站点：南环路新师范西,报警类型：ConstantValue_MM
+2021-01-15 01:50:24,945 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 01:50:25,310 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 01:50:25,549 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 01:50:25,868 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 01:50:26,210 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 01:50:26,729 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 01:50:27,150 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 01:50:27,586 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 01:50:28,051 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 01:50:28,315 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 01:50:28,593 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 01:50:28,868 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 01:50:29,211 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 01:50:29,508 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 01:50:29,892 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 01:50:30,230 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 01:50:30,519 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 01:50:31,036 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 01:50:31,388 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 01:50:31,713 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 03:18:59,417 - mylogger - INFO - 进程ID: 5328 - 站点：纺印四路zt1,报警类型：Synthesize
+2021-01-15 03:50:18,970 - mylogger - INFO - 进程ID: 15676 - 站点：沙市印染工业园,报警类型：ConstantValue_MM
+2021-01-15 03:50:19,513 - mylogger - INFO - 进程ID: 15676 - 站点：开发区沙隆达厂区内,报警类型：ConstantValue_MM
+2021-01-15 03:50:20,421 - mylogger - INFO - 进程ID: 15676 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-15 03:50:20,809 - mylogger - INFO - 进程ID: 15676 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-15 03:50:21,340 - mylogger - INFO - 进程ID: 15676 - 站点：沙市化工研究所2-ELH,报警类型：ConstantValue_MM
+2021-01-15 03:50:22,137 - mylogger - INFO - 进程ID: 15676 - 站点：南环路新师范西,报警类型：ConstantValue_MM
+2021-01-15 03:50:23,078 - mylogger - INFO - 进程ID: 15676 - 站点：荆州明珠城,报警类型：ConstantValue_MM
+2021-01-15 03:50:23,814 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 03:50:23,845 - mylogger - INFO - 进程ID: 15676 - 站点：沙市区烟草,报警类型：ConstantValue_MM
+2021-01-15 03:50:24,161 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 03:50:24,445 - mylogger - INFO - 进程ID: 15676 - 站点：开发区天谊印染,报警类型：ConstantValue_MM
+2021-01-15 03:50:24,602 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 03:50:24,974 - mylogger - INFO - 进程ID: 15676 - 站点：开发区田曲化工中心,报警类型：ConstantValue_MM
+2021-01-15 03:50:25,050 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 03:50:25,678 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 03:50:26,035 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 03:50:26,370 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 03:50:26,692 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 03:50:27,015 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 03:50:27,274 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 03:50:27,612 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 03:50:27,977 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 03:50:28,272 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 03:50:28,635 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 03:50:29,332 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 03:50:29,810 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 03:50:30,139 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 03:50:30,480 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 03:50:30,804 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 03:50:31,100 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 03:50:57,026 - mylogger - INFO - 进程ID: 5328 - 站点：月堤北路2-elh,报警类型：Synthesize
+2021-01-15 04:08:52,269 - mylogger - INFO - 进程ID: 5328 - 站点：豉湖路口,报警类型：Synthesize
+2021-01-15 04:11:18,364 - mylogger - INFO - 进程ID: 5328 - 站点：豉湖路口,报警类型：Synthesize
+2021-01-15 04:19:32,909 - mylogger - INFO - 进程ID: 5328 - 站点：豉湖路口,报警类型：Synthesize
+2021-01-15 04:37:27,570 - mylogger - INFO - 进程ID: 5328 - 站点：豉湖路口,报警类型：Synthesize
+2021-01-15 04:38:26,106 - mylogger - INFO - 进程ID: 5328 - 站点：沙市区烟草,报警类型：Synthesize
+2021-01-15 04:39:24,797 - mylogger - INFO - 进程ID: 5328 - 站点：豉湖路口,报警类型：Synthesize
+2021-01-15 04:53:29,096 - mylogger - INFO - 进程ID: 5328 - 站点：豉湖路口,报警类型：Synthesize
+2021-01-15 05:09:29,246 - mylogger - INFO - 进程ID: 5328 - 站点：豉湖路口,报警类型：Synthesize
+2021-01-15 05:13:52,718 - mylogger - INFO - 进程ID: 5328 - 站点：豉湖路口,报警类型：Synthesize
+2021-01-15 05:50:19,555 - mylogger - INFO - 进程ID: 15676 - 站点：沙市印染工业园,报警类型：ConstantValue_MM
+2021-01-15 05:50:20,044 - mylogger - INFO - 进程ID: 15676 - 站点：沙市印染工业园,报警类型：ConstantValue_MM
+2021-01-15 05:50:20,647 - mylogger - INFO - 进程ID: 15676 - 站点：开发区沙隆达厂区内,报警类型：ConstantValue_MM
+2021-01-15 05:50:21,349 - mylogger - INFO - 进程ID: 15676 - 站点：骏宇物流,报警类型：ConstantValue_MM
+2021-01-15 05:50:21,531 - mylogger - INFO - 进程ID: 15676 - 站点：纺印四路zt1,报警类型：ConstantValue_MM
+2021-01-15 05:50:22,534 - mylogger - INFO - 进程ID: 15676 - 站点：荆州明珠城,报警类型：ConstantValue_MM
+2021-01-15 05:50:23,536 - mylogger - INFO - 进程ID: 15676 - 站点：荆州明珠城,报警类型：ConstantValue_MM
+2021-01-15 05:50:24,687 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 05:50:25,410 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 05:50:25,493 - mylogger - INFO - 进程ID: 15676 - 站点：沙市区烟草,报警类型：ConstantValue_MM
+2021-01-15 05:50:25,848 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 05:50:26,096 - mylogger - INFO - 进程ID: 15676 - 站点：沙市区烟草,报警类型：ConstantValue_MM
+2021-01-15 05:50:26,392 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 05:50:26,701 - mylogger - INFO - 进程ID: 15676 - 站点：开发区天谊印染,报警类型：ConstantValue_MM
+2021-01-15 05:50:26,926 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 05:50:27,223 - mylogger - INFO - 进程ID: 15676 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-15 05:50:38,245 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 05:50:38,638 - mylogger - INFO - 进程ID: 15676 - 站点：亿钧玻璃2搬迁,报警类型：ConstantValue_MM
+2021-01-15 05:50:38,866 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 05:50:39,127 - mylogger - INFO - 进程ID: 15676 - 站点：开发区田曲化工中心,报警类型：ConstantValue_MM
+2021-01-15 05:50:39,483 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 05:50:40,047 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 05:50:40,365 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 05:50:40,639 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 05:50:40,891 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 05:50:41,253 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 05:50:41,539 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 05:50:41,893 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 05:50:42,220 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 05:50:42,550 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 05:50:42,912 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 05:50:43,233 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 05:50:43,497 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 05:50:43,776 - mylogger - INFO - 进程ID: 15676 - 站点：兴泰纺织,报警类型：ConstantValue_MM
+2021-01-15 06:09:14,241 - mylogger - INFO - 进程ID: 5328 - 站点：竞强塑料,报警类型：Synthesize
+2021-01-15 06:45:20,449 - mylogger - INFO - 进程ID: 5328 - 站点：钢管厂修理车间,报警类型：Synthesize
+2021-01-15 07:50:20,361 - mylogger - INFO - 进程ID: 15676 - 站点：沙市印染工业园,报警类型：ConstantValue_MM
+2021-01-15 07:50:20,862 - mylogger - INFO - 进程ID: 15676 - 站点：开发区沙隆达厂区内,报警类型：ConstantValue_MM
+2021-01-15 07:50:22,095 - mylogger - INFO - 进程ID: 15676 - 站点：云天酒店,报警类型：ConstantValue_MM
+2021-01-15 07:50:22,631 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 07:50:22,991 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 07:50:23,332 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 07:50:23,896 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 07:50:24,709 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 07:50:25,364 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 07:50:25,643 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 07:50:25,825 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 07:50:26,001 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 07:50:26,187 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 07:50:26,340 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 07:50:26,549 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 07:50:26,780 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 07:50:27,036 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 07:50:27,234 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 07:50:27,442 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 07:50:27,671 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 07:50:27,954 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 07:50:28,134 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 07:50:28,309 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 09:00:51,547 - mylogger - INFO - 进程ID: 5328 - 站点：荆州区新师院-elh,报警类型：Synthesize
+2021-01-15 09:50:21,102 - mylogger - INFO - 进程ID: 15676 - 站点：开发区沙隆达厂区内,报警类型：ConstantValue_MM
+2021-01-15 09:50:23,871 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 09:50:24,471 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 09:50:25,092 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 09:50:25,837 - mylogger - INFO - 进程ID: 15676 - 站点：岑河天泽公司,报警类型：ConstantValue_MM
+2021-01-15 09:50:26,382 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 09:50:26,834 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 09:50:26,865 - mylogger - INFO - 进程ID: 15676 - 站点：开发区天谊印染,报警类型：ConstantValue_MM
+2021-01-15 09:50:27,083 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 09:50:27,262 - mylogger - INFO - 进程ID: 15676 - 站点：观音寺乡观中闸桥,报警类型：ConstantValue_MM
+2021-01-15 09:50:27,574 - mylogger - INFO - 进程ID: 15676 - 站点：竞强塑料,报警类型：ConstantValue_MM
+2021-01-15 09:50:27,942 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 09:50:28,128 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 09:50:28,358 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 09:50:28,549 - mylogger - INFO - 进程ID: 15676 - 站点：法雷奥,报警类型：ConstantValue_MM
+2021-01-15 09:50:28,737 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 09:50:28,929 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 09:50:29,154 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 09:50:29,365 - mylogger - INFO - 进程ID: 15676 - 站点：开发区东兴印染-elh,报警类型：ConstantValue_MM
+2021-01-15 09:50:29,583 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 09:50:29,779 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 09:50:30,139 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 09:50:30,314 - mylogger - INFO - 进程ID: 15676 - 站点：津龙工业园,报警类型：ConstantValue_MM
+2021-01-15 11:25:49,161 - mylogger - INFO - 进程ID: 26064 - 站点：南环路新师范西，报警类型：Offline，传入参数：{'item_name': 'Offline', 'itme_send_number': '', 'item_site_name': '南环路新师范西'}
+2021-01-15 12:14:52,829 - mylogger - INFO - 进程ID: 5328 - 站点：豉湖路口,报警类型：Synthesize
+2021-01-15 13:57:24,314 - mylogger - INFO - 进程ID: 2336 - 站点：骏宇物流，报警类型：Synthesize，传入参数：{'item_name': 'Synthesize', 'itme_send_number': '', 'item_site_name': '骏宇物流', 'item_pollutant': 'PM10', 'item_pollutant_value': '192.0', 'item_time': '2021-01-15 13:54:00'}
+2021-01-15 14:49:14,932 - mylogger - INFO - 进程ID: 2336 - 站点：骏宇物流，报警类型：Synthesize，传入参数：{'item_name': 'Synthesize', 'itme_send_number': '', 'item_site_name': '骏宇物流', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '136.0', 'item_time': '2021-01-15 14:47:00'}
+2021-01-29 18:02:58,963 - mylogger - INFO - 进程ID: 13624 - 站点：月堤北路2-elh，报警类型：Synthesize，传入参数：{'item_name': 'Synthesize', 'itme_send_number': '', 'item_site_name': '月堤北路2-elh', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '182.0', 'item_time': '2021-01-29 18:00:00'}
+2021-01-29 18:46:56,823 - mylogger - INFO - 进程ID: 13624 - 站点：月堤北路2-elh，报警类型：Synthesize，传入参数：{'item_name': 'Synthesize', 'itme_send_number': '', 'item_site_name': '月堤北路2-elh', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '280.0', 'item_time': '2021-01-29 18:43:30'}
+2021-02-01 12:01:52,323 - mylogger - INFO - 进程ID: 19296 - 站点：沙市区烟草，报警类型：Synthesize，传入参数：{'item_name': 'Synthesize', 'itme_send_number': '', 'item_site_name': '沙市区烟草', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '99.0', 'item_time': '2021-02-01 11:58:30'}
+2021-02-01 16:27:52,170 - mylogger - INFO - 进程ID: 19296 - 站点：津龙工业园，报警类型：Synthesize，传入参数：{'item_name': 'Synthesize', 'itme_send_number': '', 'item_site_name': '津龙工业园', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '190.0', 'item_time': '2021-02-01 16:25:30'}
+2021-02-01 20:41:15,888 - mylogger - INFO - 进程ID: 19296 - 站点：沙市长青物业管理2-elh，报警类型：Synthesize，传入参数：{'item_name': 'Synthesize', 'itme_send_number': '', 'item_site_name': '沙市长青物业管理2-elh', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '143.0', 'item_time': '2021-02-01 20:39:00'}
+2021-02-02 02:46:48,937 - mylogger - INFO - 进程ID: 19296 - 站点：法雷奥，报警类型：Synthesize，传入参数：{'item_name': 'Synthesize', 'itme_send_number': '', 'item_site_name': '法雷奥', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '115.0', 'item_time': '2021-02-02 02:43:30'}
+2021-02-02 19:19:16,149 - mylogger - INFO - 进程ID: 19296 - 站点：云天酒店，报警类型：Synthesize，传入参数：{'item_name': 'Synthesize', 'itme_send_number': '', 'item_site_name': '云天酒店', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '206.0', 'item_time': '2021-02-02 19:16:30'}
+2021-02-03 06:43:12,960 - mylogger - INFO - 进程ID: 19296 - 站点：钢管厂修理车间，报警类型：Synthesize，传入参数：{'item_name': 'Synthesize', 'itme_send_number': '', 'item_site_name': '钢管厂修理车间', 'item_pollutant': 'NO2', 'item_pollutant_value': '108.0', 'item_time': '2021-02-03 06:41:00'}
+2021-02-08 11:42:43,966 - mylogger - INFO - 进程ID: 47592 - 站点：沙市区烟草，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '沙市区烟草', 'item_pollutant': 'Pm2.5', 'item_pollutant_value': '172', 'item_pollutant_value_limit': '75'}
+2021-02-08 13:29:07,455 - mylogger - INFO - 进程ID: 90516 - 站点：沙市区烟草，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '沙市区烟草', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '172.0', 'item_pollutant_value_limit': '75'}
+2021-02-10 08:16:50,014 - mylogger - INFO - 进程ID: 12216 - 站点：荆州区新师院-elh，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州区新师院-elh', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '103.0', 'item_pollutant_value_limit': '75'}
+2021-02-10 15:39:35,594 - mylogger - INFO - 进程ID: 12216 - 站点：沙市长青物业管理2-elh，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '沙市长青物业管理2-elh', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '376.0', 'item_pollutant_value_limit': '75'}
+2021-02-10 16:27:10,513 - mylogger - INFO - 进程ID: 12216 - 站点：沙市长青物业管理2-elh，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '沙市长青物业管理2-elh', 'item_pollutant': 'PM10', 'item_pollutant_value': '659.0', 'item_pollutant_value_limit': '150'}
+2021-02-10 19:06:25,539 - mylogger - INFO - 进程ID: 12216 - 站点：骏宇物流，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '骏宇物流', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '88.0', 'item_pollutant_value_limit': '75'}
+2021-02-10 19:11:26,012 - mylogger - INFO - 进程ID: 12216 - 站点：豉湖路口，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '豉湖路口', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '1174.0', 'item_pollutant_value_limit': '75'}
+2021-02-10 20:06:30,957 - mylogger - INFO - 进程ID: 12216 - 站点：骏宇物流，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '骏宇物流', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '88.0', 'item_pollutant_value_limit': '75'}
+2021-02-10 20:16:31,964 - mylogger - INFO - 进程ID: 12216 - 站点：荆州区新师院-elh，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州区新师院-elh', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '97.0', 'item_pollutant_value_limit': '75'}
+2021-02-10 20:23:32,624 - mylogger - INFO - 进程ID: 12216 - 站点：沙市长青物业管理2-elh，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '沙市长青物业管理2-elh', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '110.0', 'item_pollutant_value_limit': '75'}
+2021-02-10 20:34:33,620 - mylogger - INFO - 进程ID: 12216 - 站点：豉湖路口，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '豉湖路口', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '103.0', 'item_pollutant_value_limit': '75'}
+2021-02-10 21:15:37,997 - mylogger - INFO - 进程ID: 12216 - 站点：骏宇物流，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '骏宇物流', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '121.0', 'item_pollutant_value_limit': '75'}
+2021-02-10 22:02:42,591 - mylogger - INFO - 进程ID: 12216 - 站点：豉湖路口，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '豉湖路口', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '1026.0', 'item_pollutant_value_limit': '75'}
+2021-02-10 22:03:42,658 - mylogger - INFO - 进程ID: 12216 - 站点：豉湖路口，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '豉湖路口', 'item_pollutant': 'PM10', 'item_pollutant_value': '1539.0', 'item_pollutant_value_limit': '150'}
+2021-02-10 22:16:13,793 - mylogger - INFO - 进程ID: 12216 - 站点：骏宇物流，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '骏宇物流', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '89.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 00:30:56,271 - mylogger - INFO - 进程ID: 12216 - 站点：中医高专新校区6号宿舍楼，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '中医高专新校区6号宿舍楼', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '90.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 00:37:26,954 - mylogger - INFO - 进程ID: 12216 - 站点：荆州区新师院-elh，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州区新师院-elh', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '88.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 00:53:28,615 - mylogger - INFO - 进程ID: 12216 - 站点：荆州种子公司，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州种子公司', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '80.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 00:56:58,954 - mylogger - INFO - 进程ID: 12216 - 站点：荆州区荆保宾馆，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州区荆保宾馆', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '91.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 01:00:28,999 - mylogger - INFO - 进程ID: 12216 - 站点：荆州地税，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州地税', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '103.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 01:02:29,247 - mylogger - INFO - 进程ID: 12216 - 站点：云天酒店，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '云天酒店', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '86.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 01:31:01,498 - mylogger - INFO - 进程ID: 12216 - 站点：中医高专新校区6号宿舍楼，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '中医高专新校区6号宿舍楼', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '99.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 01:37:32,247 - mylogger - INFO - 进程ID: 12216 - 站点：荆州区新师院-elh，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州区新师院-elh', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '94.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 01:53:34,034 - mylogger - INFO - 进程ID: 12216 - 站点：荆州种子公司，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州种子公司', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '100.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 01:57:04,278 - mylogger - INFO - 进程ID: 12216 - 站点：荆州区荆保宾馆，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州区荆保宾馆', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '111.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 02:00:34,180 - mylogger - INFO - 进程ID: 12216 - 站点：荆州地税，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州地税', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '106.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 02:02:34,481 - mylogger - INFO - 进程ID: 12216 - 站点：云天酒店，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '云天酒店', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '100.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 02:31:37,513 - mylogger - INFO - 进程ID: 12216 - 站点：中医高专新校区6号宿舍楼，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '中医高专新校区6号宿舍楼', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '94.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 02:38:08,199 - mylogger - INFO - 进程ID: 12216 - 站点：荆州区新师院-elh，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州区新师院-elh', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '91.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 02:54:09,923 - mylogger - INFO - 进程ID: 12216 - 站点：荆州种子公司，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州种子公司', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '99.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 02:57:40,185 - mylogger - INFO - 进程ID: 12216 - 站点：荆州区荆保宾馆，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州区荆保宾馆', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '103.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 03:01:10,289 - mylogger - INFO - 进程ID: 12216 - 站点：荆州地税，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州地税', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '110.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 03:03:10,547 - mylogger - INFO - 进程ID: 12216 - 站点：云天酒店，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '云天酒店', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '104.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 03:32:13,397 - mylogger - INFO - 进程ID: 12216 - 站点：中医高专新校区6号宿舍楼，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '中医高专新校区6号宿舍楼', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '94.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 03:38:44,085 - mylogger - INFO - 进程ID: 12216 - 站点：荆州区新师院-elh，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州区新师院-elh', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '96.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 03:54:45,835 - mylogger - INFO - 进程ID: 12216 - 站点：荆州种子公司，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州种子公司', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '90.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 03:58:16,168 - mylogger - INFO - 进程ID: 12216 - 站点：荆州区荆保宾馆，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州区荆保宾馆', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '94.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 04:01:46,235 - mylogger - INFO - 进程ID: 12216 - 站点：荆州地税，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州地税', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '108.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 04:03:46,517 - mylogger - INFO - 进程ID: 12216 - 站点：云天酒店，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '云天酒店', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '101.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 04:20:17,899 - mylogger - INFO - 进程ID: 12216 - 站点：骏宇物流，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '骏宇物流', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '91.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 04:32:49,295 - mylogger - INFO - 进程ID: 12216 - 站点：中医高专新校区6号宿舍楼，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '中医高专新校区6号宿舍楼', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '94.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 04:36:19,803 - mylogger - INFO - 进程ID: 12216 - 站点：豉湖路口，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '豉湖路口', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '93.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 04:39:19,950 - mylogger - INFO - 进程ID: 12216 - 站点：荆州区新师院-elh，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州区新师院-elh', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '90.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 04:55:21,868 - mylogger - INFO - 进程ID: 12216 - 站点：荆州种子公司，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州种子公司', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '85.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 05:02:22,239 - mylogger - INFO - 进程ID: 12216 - 站点：荆州地税，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州地税', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '96.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 05:04:22,475 - mylogger - INFO - 进程ID: 12216 - 站点：云天酒店，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '云天酒店', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '96.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 05:20:54,090 - mylogger - INFO - 进程ID: 12216 - 站点：骏宇物流，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '骏宇物流', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '93.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 05:33:25,338 - mylogger - INFO - 进程ID: 12216 - 站点：中医高专新校区6号宿舍楼，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '中医高专新校区6号宿舍楼', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '91.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 05:36:56,008 - mylogger - INFO - 进程ID: 12216 - 站点：豉湖路口，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '豉湖路口', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '96.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 05:39:56,032 - mylogger - INFO - 进程ID: 12216 - 站点：荆州区新师院-elh，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州区新师院-elh', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '88.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 05:55:58,174 - mylogger - INFO - 进程ID: 12216 - 站点：荆州种子公司，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州种子公司', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '89.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 06:02:58,593 - mylogger - INFO - 进程ID: 12216 - 站点：荆州地税，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州地税', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '99.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 06:04:58,720 - mylogger - INFO - 进程ID: 12216 - 站点：云天酒店，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '云天酒店', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '96.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 06:07:29,252 - mylogger - INFO - 进程ID: 12216 - 站点：荆州区荆保宾馆，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州区荆保宾馆', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '91.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 06:21:30,207 - mylogger - INFO - 进程ID: 12216 - 站点：骏宇物流，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '骏宇物流', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '88.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 06:33:31,384 - mylogger - INFO - 进程ID: 12216 - 站点：中医高专新校区6号宿舍楼，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '中医高专新校区6号宿舍楼', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '89.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 06:37:31,940 - mylogger - INFO - 进程ID: 12216 - 站点：豉湖路口，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '豉湖路口', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '92.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 06:40:02,035 - mylogger - INFO - 进程ID: 12216 - 站点：荆州区新师院-elh，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州区新师院-elh', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '84.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 06:56:03,994 - mylogger - INFO - 进程ID: 12216 - 站点：荆州种子公司，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州种子公司', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '87.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 07:03:04,425 - mylogger - INFO - 进程ID: 12216 - 站点：荆州地税，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州地税', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '97.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 07:05:04,698 - mylogger - INFO - 进程ID: 12216 - 站点：云天酒店，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '云天酒店', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '94.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 07:07:35,237 - mylogger - INFO - 进程ID: 12216 - 站点：荆州区荆保宾馆，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州区荆保宾馆', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '89.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 07:21:36,327 - mylogger - INFO - 进程ID: 12216 - 站点：骏宇物流，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '骏宇物流', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '89.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 07:30:37,129 - mylogger - INFO - 进程ID: 12216 - 站点：中医高专新校区6号宿舍楼，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '中医高专新校区6号宿舍楼', 'item_pollutant': 'PM10', 'item_pollutant_value': '161.0', 'item_pollutant_value_limit': '150'}
+2021-02-11 07:34:07,528 - mylogger - INFO - 进程ID: 12216 - 站点：中医高专新校区6号宿舍楼，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '中医高专新校区6号宿舍楼', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '96.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 07:42:38,512 - mylogger - INFO - 进程ID: 12216 - 站点：荆州区新师院-elh，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州区新师院-elh', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '93.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 07:47:09,354 - mylogger - INFO - 进程ID: 12216 - 站点：豉湖路口，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '豉湖路口', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '96.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 07:56:40,377 - mylogger - INFO - 进程ID: 12216 - 站点：荆州种子公司，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州种子公司', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '89.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 08:03:40,759 - mylogger - INFO - 进程ID: 12216 - 站点：荆州地税，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州地税', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '98.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 08:05:41,071 - mylogger - INFO - 进程ID: 12216 - 站点：云天酒店，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '云天酒店', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '100.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 08:08:11,536 - mylogger - INFO - 进程ID: 12216 - 站点：荆州区荆保宾馆，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州区荆保宾馆', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '92.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 08:22:12,653 - mylogger - INFO - 进程ID: 12216 - 站点：骏宇物流，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '骏宇物流', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '90.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 08:29:43,397 - mylogger - INFO - 进程ID: 12216 - 站点：总工会，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '总工会', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '90.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 08:34:43,960 - mylogger - INFO - 进程ID: 12216 - 站点：中医高专新校区6号宿舍楼，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '中医高专新校区6号宿舍楼', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '93.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 08:43:14,792 - mylogger - INFO - 进程ID: 12216 - 站点：荆州区新师院-elh，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州区新师院-elh', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '91.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 08:57:16,561 - mylogger - INFO - 进程ID: 12216 - 站点：荆州种子公司，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州种子公司', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '81.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 09:04:17,057 - mylogger - INFO - 进程ID: 12216 - 站点：荆州地税，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '荆州地税', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '92.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 09:09:48,018 - mylogger - INFO - 进程ID: 12216 - 站点：云天酒店，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '云天酒店', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '88.0', 'item_pollutant_value_limit': '75'}
+2021-02-11 09:35:20,108 - mylogger - INFO - 进程ID: 12216 - 站点：中医高专新校区6号宿舍楼，报警类型：UpperLimit，传入参数：{'item_name': 'UpperLimit', 'itme_send_number': '', 'item_site_name': '中医高专新校区6号宿舍楼', 'item_pollutant': 'PM2.5', 'item_pollutant_value': '84.0', 'item_pollutant_value_limit': '75'}
